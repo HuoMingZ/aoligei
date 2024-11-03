@@ -1,5 +1,5 @@
 # SQL injection vulnerability exists in the gas agent management system
-name:maxihong
+name: Maxihong
 
 vendors: https://www.sourcecodester.com/php/15586/gas-agency-management-system-project-php-free-download-source-code.html
 
